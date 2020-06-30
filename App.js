@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, YellowBox } from "react-native";
 import * as firebase from "firebase";
 
 //Ignoring warnings for long timer issue
-YellowBox.ignoreWarnings(["Setting a timer"]);
+// YellowBox.ignoreWarnings(["Setting a timer"]);
 
 // Set the configuration for your app
 // TODO: Replace with your project's config object
